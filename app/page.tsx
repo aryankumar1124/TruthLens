@@ -114,10 +114,11 @@ export default function Home() {
 
     setLoading(true);
     try {
-  const res = await fetch("http://localhost:3001/api/scan", {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify(payload)
+      const res = await fetch("/api/scan", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload),
+      
   });
 
   const json: any = await res.json();
