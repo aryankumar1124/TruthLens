@@ -35,4 +35,5 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
- #Arjun Makadia — Backend Developer   Worked on backend logic, scan handling, misinformation risk report generation, and LLM/API integration.
+ ## Collabortators
+ Arjun Makadia — Backend Developer   Worked on backend logic, scan handling, misinformation risk report generation, and LLM/API integration.
